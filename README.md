@@ -43,8 +43,12 @@ This project focuses on the development of an **Animal Detection and Remedy Syst
    cd Animal-Detection-and-Remedy-System
    
 ## Demo of Animal Detection and Remedy System with ChatBot
+## Basic UI
 ![Animal Detection System](Demo/demo1.png)
+## When Animal belongs to classes arise as we set confidence score and IOU Threshold
 ![Animal Detection System](Demo/demo2.png)
+## Animal Detection Result and Remedy
 ![Animal Detection System](Demo/demo3.png)
+## ChatBot regrading the detected animal or many more...
 ![Animal Detection System](Demo/demo4.png)
 
