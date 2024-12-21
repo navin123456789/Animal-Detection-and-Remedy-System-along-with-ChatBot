@@ -24,9 +24,9 @@ This project focuses on the development of an **Animal Detection and Remedy Syst
 - The system processes images or video streams, detecting animals in real-time and responding with suitable guidance and remedies.
 
 ## Technologies Used
-- **YOLOv4/YOLOv5** model with custom dataset for object detection
-- **TensorFlow/Keras** for deep learning
-- **Gradio** for building the ChatBot interface
+- **YOLO v8n** model with custom dataset for object detection
+- **GROQ api** for interactive chatbot
+- **Gradio** for building the User interface
 - **Python** based overall project
 
 ## Project Use Cases
