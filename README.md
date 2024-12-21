@@ -180,3 +180,7 @@ This project focuses on the development of an **Animal Detection and Remedy Syst
    
 ## Demo of Animal Detection and Remedy System with ChatBot
 ![Animal Detection System](Demo/demo1.png)
+![Animal Detection System](Demo/demo2.png)
+![Animal Detection System](Demo/demo3.png)
+![Animal Detection System](Demo/demo4.png)
+
