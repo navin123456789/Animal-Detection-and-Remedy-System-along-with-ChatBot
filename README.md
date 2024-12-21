@@ -39,5 +39,5 @@ This project focuses on the development of an **Animal Detection and Remedy Syst
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Animal-Detection-and-Remedy-System.git
+   git clone https://github.com/navin123456789/Animal-Detection-and-Remedy-System.git
    cd Animal-Detection-and-Remedy-System
